@@ -3,3 +3,4 @@ dev branch add
 added this line from master
 added this line from branch feature1
 feature1
+fix bug 1
